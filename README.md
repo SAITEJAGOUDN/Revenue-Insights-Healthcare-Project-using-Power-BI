@@ -36,8 +36,3 @@ I leveraged Power BI as the primary tool for visualizing and analyzing data in t
 
 Thank you for reading. Feel free to check out my dashboard using the link provided.
 
-## Author
-**Deepthi G Das**  
-📧 [deepthigdas@243@gmail.com](mailto:deepthigdas@243@gmail.com)  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/deepthi-g-das)
-
